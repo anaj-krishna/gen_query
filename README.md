@@ -1,12 +1,10 @@
-Gen-Query 🔥🚀
+# Gen-Query 🔥🚀
 
 Prompt-to-MongoDB Query Generator using Google Gemini LLM + MongoDB + Streamlit
 
 Project Description 🧠💪
 
-Gen-Query is an AI-powered web app that automatically converts natural language prompts into MongoDB queries using Google's Gemini API. This project is built with ❤️ by Techie Master Anaj Krishna — The Future AI Monk from Kochi 😏🔥.
-
-Tech Stack 🛠️
+Gen-Query is an AI-powered web app that automatically converts natural language prompts into MongoDB queries using Google's Gemini API. 
 
 Google Gemini LLM (Text-to-Query Conversion)
 
